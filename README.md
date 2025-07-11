@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-akshaya20" alt="a-akshaya20" /></a> </p>
 
-- I'm currently studying B.Tech in Computer science Engineering at(MLRITM)**
+- I'm currently studying B.Tech in Computer science and Engineering at(MLRITM)**
 
 - I'm currently learning  javascript,nodejs,react js,DevOps**
 
